@@ -38,7 +38,7 @@ const koohyeon = {
 
 - 🔭 back-end： ![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs) ![TypeScript](https://img.shields.io/badge/-TypeScript-red?style=flat-circle&logo=typescript) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript) 
 
-- 👯 front-end：![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)
+- 👯 front-end：![React](https://img.shields.io/badge/-React-blue?style=flat-circle&logo=react) ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)
 
 - :hammer_and_wrench: use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)
 
