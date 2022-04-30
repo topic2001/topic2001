@@ -31,7 +31,7 @@ const koohyeon = {
 <p>Backend Developer at <a href="https://purrsong.com">Purrsong</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<img align='right' src="https://raw.githubusercontent.com/RaghavK16/RaghavK16/master/coderman.gif" width="230">
+<img align='right' src="https://raw.githubusercontent.com/RaghavK16/RaghavK16/master/coderman.gif" width="500">
 <!-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> -->
 > skills
 
