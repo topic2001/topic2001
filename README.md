@@ -18,13 +18,6 @@ architecture: ["event-driven", "design system pattern"],
                         mentor: "EducaTRANSforma"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
--->
-<h2> Hi, I'm KOOHYEON JEONG! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
-<p>Backend Developer at <a href="https://purrsong.com">Purrsong</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
-
 ```javascript
 const koohyeon = {
   pronouns: "he" | "him",
@@ -32,11 +25,17 @@ const koohyeon = {
   tools: [NestJs, graphQL, Express, Node, Mysql],
 }
 ```
+-->
+<h2> Hi, I'm KOOHYEON JEONG! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
+<p>Backend Developer at <a href="https://purrsong.com">Purrsong</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
 
 <!-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> -->
 > skills
 
-- 🔭 back-end： ![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs) ![TypeScript](https://img.shields.io/badge/-TypeScript-red?style=flat-circle&logo=typescript) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript) 
+- 🔭 back-end： ![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs) ![TypeScript](https://img.shields.io/badge/-TypeScript-gray?style=flat-circle&logo=typescript) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript) 
 
 - 👯 front-end：![React](https://img.shields.io/badge/-React-blue?style=flat-circle&logo=react) ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)
 
