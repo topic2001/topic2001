@@ -26,7 +26,7 @@ const koohyeon = {
 }
 ```
 -->
-<h2> Hi, I'm KOOHYEON JEONG! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm KOOHYEON JEONG!</h2>
 <!-- <img align='right' src="https://raw.githubusercontent.com/RaghavK16/RaghavK16/master/coderman.gif" width="230"> -->
 <p>Backend Developer at <a href="https://purrsong.com">Purrsong</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
