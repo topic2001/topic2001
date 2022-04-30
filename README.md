@@ -36,17 +36,17 @@ const koohyeon = {
 <!-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> -->
 > skills
 
-- 🔭 back-end： ![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+- 🔭 back-end： ![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs) ![TypeScript](https://img.shields.io/badge/-TypeScript-red?style=flat-circle&logo=typescript) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript) 
 
-- 👯 front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)
+- 👯 front-end：![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)
 
 - :hammer_and_wrench: use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)
 
-- ⚙️ om：![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux)![](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)
+- ⚙️ om：![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git) ![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux) ![](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)
 
-- 💻 db：![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat-circle&logo=Oracle)![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)![Redis](https://img.shields.io/badge/-Redis-green?style=flat-circle&logo=Redis)
+- 💻 db：![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat-circle&logo=Oracle) ![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql) ![Redis](https://img.shields.io/badge/-Redis-green?style=flat-circle&logo=Redis)
 
-- 🌱 learning：![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)![php](https://img.shields.io/badge/-php-green?style=flat-circle&logo=php)
+- 🌱 learning：![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python) ![php](https://img.shields.io/badge/-php-green?style=flat-circle&logo=php)
 
   
 ---
